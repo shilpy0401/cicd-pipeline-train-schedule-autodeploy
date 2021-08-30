@@ -11,8 +11,6 @@ spec:
     port: 8080
     nodePort: 8080
 
----
-
 apiVersion: apps/v1
 kind: Deployment
 metadata:
